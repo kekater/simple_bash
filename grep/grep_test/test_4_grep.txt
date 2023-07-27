@@ -1,0 +1,3 @@
+отстой int int int
+int int
+int
